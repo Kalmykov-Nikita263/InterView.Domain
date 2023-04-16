@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\InterView.Domain\bin\Debug\net7.0\InterView.Domain.deps.json
+C:\Users\Lenovo\source\repos\InterView.Domain\bin\Debug\net7.0\InterView.Domain.runtimeconfig.json
+C:\Users\Lenovo\source\repos\InterView.Domain\bin\Debug\net7.0\InterView.Domain.dll
+C:\Users\Lenovo\source\repos\InterView.Domain\bin\Debug\net7.0\InterView.Domain.pdb
+C:\Users\Lenovo\source\repos\InterView.Domain\obj\Debug\net7.0\InterView.Domain.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\InterView.Domain\obj\Debug\net7.0\InterView.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\InterView.Domain\obj\Debug\net7.0\InterView.Domain.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\InterView.Domain\obj\Debug\net7.0\InterView.Domain.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\InterView.Domain\obj\Debug\net7.0\InterView.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\InterView.Domain\obj\Debug\net7.0\InterView.Domain.dll
+C:\Users\Lenovo\source\repos\InterView.Domain\obj\Debug\net7.0\refint\InterView.Domain.dll
+C:\Users\Lenovo\source\repos\InterView.Domain\obj\Debug\net7.0\InterView.Domain.pdb
+C:\Users\Lenovo\source\repos\InterView.Domain\obj\Debug\net7.0\InterView.Domain.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\InterView.Domain\obj\Debug\net7.0\ref\InterView.Domain.dll
